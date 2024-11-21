@@ -1,1 +1,1 @@
-# BioEC131-Final-Project-VALK
+# [BioEC131-Final-Project-VALK] Website Implementation of JBrowse
