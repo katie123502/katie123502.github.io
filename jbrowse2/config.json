@@ -1,23 +1,19 @@
 {
-  "assemblies": [
-    {
-      "name": "hg38",
-      "sequence": {
-        "type": "ReferenceSequenceTrack",
-        "trackId": "hg38-ReferenceSequenceTrack",
-        "adapter": {
-          "type": "IndexedFastaAdapter",
-          "fastaLocation": {
-            "uri": "hg38.fa",
-            "locationType": "UriLocation"
-          },
-          "faiLocation": {
-            "uri": "hg38.fa.fai",
-            "locationType": "UriLocation"
-          }
-        }
+  "configuration": {
+    "rpc": {
+      "defaultDriver": "WebWorkerRpcDriver",
+      "drivers": {
+        "MainThreadRpcDriver": {},
+        "WebWorkerRpcDriver": {}
       }
     },
+    "logoPath": {
+      "locationType": "UriLocation",
+      "uri": ""
+    }
+  },
+  "plugins": [],
+  "assemblies": [
     {
       "name": "HHV1",
       "sequence": {
@@ -26,14 +22,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV1.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV1.fasta"
           },
           "faiLocation": {
-            "uri": "HHV1.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV1.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV1-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV1-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -44,14 +54,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV2.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV2.fasta"
           },
           "faiLocation": {
-            "uri": "HHV2.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV2.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV2-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV2-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -62,14 +86,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV3.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV3.fasta"
           },
           "faiLocation": {
-            "uri": "HHV3.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV3.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV3-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV3-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -80,14 +118,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV4.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV4.fasta"
           },
           "faiLocation": {
-            "uri": "HHV4.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV4.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV4-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV4-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -98,14 +150,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV5.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV5.fasta"
           },
           "faiLocation": {
-            "uri": "HHV5.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV5.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV5-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV5-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -116,14 +182,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV6A.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV6A.fasta"
           },
           "faiLocation": {
-            "uri": "HHV6A.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV6A.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV6A-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV6A-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -134,14 +214,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV6B_HST.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV6B_HST.fasta"
           },
           "faiLocation": {
-            "uri": "HHV6B_HST.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV6B_HST.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV6B_HST-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV6B_HST-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -152,14 +246,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV6B_Z29.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV6B_Z29.fasta"
           },
           "faiLocation": {
-            "uri": "HHV6B_Z29.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV6B_Z29.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV6B_Z29-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV6B_Z29-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -170,14 +278,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV7_RK.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV7_RK.fasta"
           },
           "faiLocation": {
-            "uri": "HHV7_RK.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV7_RK.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV7_RK-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV7_RK-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -188,14 +310,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV7_JI.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV7_JI.fasta"
           },
           "faiLocation": {
-            "uri": "HHV7_JI.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV7_JI.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV7_JI-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV7_JI-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -206,14 +342,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "HHV8_M.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV8_M.fasta"
           },
           "faiLocation": {
-            "uri": "HHV8_M.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "HHV8_M.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "HHV8_M-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "HHV8_M-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -224,14 +374,28 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "McHV1.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "McHV1.fasta"
           },
           "faiLocation": {
-            "uri": "McHV1.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "McHV1.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "McHV1-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "McHV1-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     },
     {
@@ -242,369 +406,514 @@
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "uri": "MuGHV4.fasta",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "MuGHV4.fasta"
           },
           "faiLocation": {
-            "uri": "MuGHV4.fasta.fai",
-            "locationType": "UriLocation"
+            "locationType": "UriLocation",
+            "uri": "MuGHV4.fasta.fai"
+          },
+          "metadataLocation": {
+            "locationType": "UriLocation",
+            "uri": "/path/to/fa.metadata.yaml"
           }
-        }
+        },
+        "displays": [
+          {
+            "type": "LinearReferenceSequenceDisplay",
+            "displayId": "MuGHV4-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+          },
+          {
+            "type": "LinearGCContentDisplay",
+            "displayId": "MuGHV4-ReferenceSequenceTrack-LinearGCContentDisplay"
+          }
+        ]
       }
     }
   ],
-  "configuration": {},
-  "connections": [],
-  "defaultSession": {
-    "name": "New Session"
-  },
   "tracks": [
     {
       "type": "FeatureTrack",
       "trackId": "genes.gff",
       "name": "genes.gff",
+      "assemblyNames": [
+        "hg38"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "hg38"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV1.cleaned.gff3",
       "name": "HHV1.cleaned.gff3",
+      "assemblyNames": [
+        "HHV1"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV1.cleaned.gff3.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV1.cleaned.gff3.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV1.cleaned.gff3.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV1.cleaned.gff3.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "HHV1"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV1.cleaned.gff3-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV1.cleaned.gff3-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV2_clean_genes.gff",
       "name": "HHV2_clean_genes.gff",
+      "assemblyNames": [
+        "HHV2.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV2_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV2_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV2_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV2_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "HHV2.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV2_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV2_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV1_clean_genes.gff",
       "name": "HHV1_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV1.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV1_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV1_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV1_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV1_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV1.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV1_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV1_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV3_clean_genes.gff",
       "name": "HHV3_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV3.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV3_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV3_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV3_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV3_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV3.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV3_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV3_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV4_clean_genes.gff",
       "name": "HHV4_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV4.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV4_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV4_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV4_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV4_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV4.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV4_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV4_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV5_clean_genes.gff",
       "name": "HHV5_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV5.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV5_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV5_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV5_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV5_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV5.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV5_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV5_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV6A_clean_genes.gff",
       "name": "HHV6A_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV6A.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV6A_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV6A_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV6A_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV6A_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV6A.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV6A_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV6A_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV6B_HST_clean_genes.gff",
       "name": "HHV6B_HST_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV6B_HST.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV6B_HST_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV6B_HST_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV6B_HST_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV6B_HST_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV6B_HST.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV6B_HST_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV6B_HST_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV6B_Z29_clean_genes.gff",
       "name": "HHV6B_Z29_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV6B_Z29.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV6B_Z29_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV6B_Z29_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV6B_Z29_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV6B_Z29_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV6B_Z29.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV6B_Z29_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV6B_Z29_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV7_RK_clean_genes.gff",
       "name": "HHV7_RK_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV7_RK.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV7_RK_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV7_RK_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV7_RK_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV7_RK_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV7_RK.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV7_RK_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV7_RK_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV7_JI_clean_genes.gff",
       "name": "HHV7_JI_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV7_JI.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV7_JI_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV7_JI_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV7_JI_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV7_JI_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV7_JI.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV7_JI_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV7_JI_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "HHV8_M_clean_genes.gff",
       "name": "HHV8_M_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/HHV8_M.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "HHV8_M_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "HHV8_M_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "HHV8_M_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "HHV8_M_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV8_M.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "HHV8_M_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "HHV8_M_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "McHV1_clean_genes.gff",
       "name": "McHV1_clean_genes.gff",
+      "assemblyNames": [
+        "/Users/lucile/Desktop/Herpes Genomes/McHV1.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "McHV1_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "McHV1_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "McHV1_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "McHV1_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/McHV1.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "McHV1_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "McHV1_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     },
     {
       "type": "FeatureTrack",
       "trackId": "MuGHV4_clean_genes.gff",
       "name": "MuGHV4_clean_genes.gff",
+      "assemblyNames": [
+        "MuGHV4.fasta"
+      ],
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "MuGHV4_clean_genes.gff.gz",
-          "locationType": "UriLocation"
+          "locationType": "UriLocation",
+          "uri": "MuGHV4_clean_genes.gff.gz"
         },
         "index": {
           "location": {
-            "uri": "MuGHV4_clean_genes.gff.gz.tbi",
-            "locationType": "UriLocation"
-          },
-          "indexType": "TBI"
+            "locationType": "UriLocation",
+            "uri": "MuGHV4_clean_genes.gff.gz.tbi"
+          }
         }
       },
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/MuGHV4.fasta"
+      "displays": [
+        {
+          "type": "LinearBasicDisplay",
+          "displayId": "MuGHV4_clean_genes.gff-LinearBasicDisplay"
+        },
+        {
+          "type": "LinearArcDisplay",
+          "displayId": "MuGHV4_clean_genes.gff-LinearArcDisplay"
+        }
       ]
     }
   ],
+  "internetAccounts": [],
   "aggregateTextSearchAdapters": [
     {
       "type": "TrixTextSearchAdapter",
       "textSearchAdapterId": "hg38-index",
       "ixFilePath": {
-        "uri": "trix/hg38.ix",
-        "locationType": "UriLocation"
+        "locationType": "UriLocation",
+        "uri": "trix/hg38.ix"
       },
       "ixxFilePath": {
-        "uri": "trix/hg38.ixx",
-        "locationType": "UriLocation"
+        "locationType": "UriLocation",
+        "uri": "trix/hg38.ixx"
       },
       "metaFilePath": {
-        "uri": "trix/hg38_meta.json",
-        "locationType": "UriLocation"
+        "locationType": "UriLocation",
+        "uri": "trix/hg38_meta.json"
       },
       "assemblyNames": [
         "hg38"
@@ -614,20 +923,24 @@
       "type": "TrixTextSearchAdapter",
       "textSearchAdapterId": "HHV1-index",
       "ixFilePath": {
-        "uri": "trix/HHV1.ix",
-        "locationType": "UriLocation"
+        "locationType": "UriLocation",
+        "uri": "trix/HHV1.ix"
       },
       "ixxFilePath": {
-        "uri": "trix/HHV1.ixx",
-        "locationType": "UriLocation"
+        "locationType": "UriLocation",
+        "uri": "trix/HHV1.ixx"
       },
       "metaFilePath": {
-        "uri": "trix/HHV1_meta.json",
-        "locationType": "UriLocation"
+        "locationType": "UriLocation",
+        "uri": "trix/HHV1_meta.json"
       },
       "assemblyNames": [
         "HHV1"
       ]
     }
-  ]
+  ],
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  }
 }
