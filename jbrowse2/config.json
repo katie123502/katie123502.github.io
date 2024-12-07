@@ -1,4 +1,8 @@
 {
+    "name": "MsaView",
+    "url": "https://unpkg.com/jbrowse-plugin-msaview/dist/jbrowse-plugin-msaview.umd.production.min.js"
+}
+{
   "assemblies": [
     {
       "name": "HHV1_X14112",
