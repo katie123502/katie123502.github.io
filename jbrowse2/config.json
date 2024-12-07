@@ -269,6 +269,42 @@
           }
         }
       }
+    },
+    {
+      "name": "hhv4_hhv8_mughv4",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "hhv4_hhv8_mughv4-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "hhv4_hhv8_mughv4.fna",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "hhv4_hhv8_mughv4.fna.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "hhv6a_hhv6b_hhv7",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "hhv6a_hhv6b_hhv7-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "hhv6a_hhv6b_hhv7.fna",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "hhv6a_hhv6b_hhv7.fna.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
     }
   ],
   "configuration": {},
@@ -650,6 +686,50 @@
       "assemblyNames": [
         "hhv6b"
       ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "hhv4_hhv8_mughv4_clean_genes.gff",
+      "name": "hhv4_hhv8_mughv4_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "hhv4_hhv8_mughv4_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "hhv4_hhv8_mughv4_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "hhv4_hhv8_mughv4"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "hhv6a_hhv6b_hhv7_clean_genes.gff",
+      "name": "hhv6a_hhv6b_hhv7_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "hhv6a_hhv6b_hhv7_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "hhv6a_hhv6b_hhv7_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "hhv6a_hhv6b_hhv7"
+      ]
     }
   ],
   "aggregateTextSearchAdapters": [
@@ -936,6 +1016,44 @@
       },
       "assemblyNames": [
         "hhv6b"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "hhv4_hhv8_mughv4-index",
+      "ixFilePath": {
+        "uri": "trix/hhv4_hhv8_mughv4.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/hhv4_hhv8_mughv4.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/hhv4_hhv8_mughv4_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "hhv4_hhv8_mughv4"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "hhv6a_hhv6b_hhv7-index",
+      "ixFilePath": {
+        "uri": "trix/hhv6a_hhv6b_hhv7.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/hhv6a_hhv6b_hhv7.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/hhv6a_hhv6b_hhv7_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "hhv6a_hhv6b_hhv7"
       ]
     }
   ]
