@@ -1,946 +1,942 @@
 {
-  "configuration": {
-    "rpc": {
-      "defaultDriver": "WebWorkerRpcDriver",
-      "drivers": {
-        "MainThreadRpcDriver": {},
-        "WebWorkerRpcDriver": {}
-      }
-    },
-    "logoPath": {
-      "locationType": "UriLocation",
-      "uri": ""
-    }
-  },
-  "plugins": [],
   "assemblies": [
     {
-      "name": "HHV1",
+      "name": "HHV1_X14112",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV1-ReferenceSequenceTrack",
+        "trackId": "HHV1_X14112-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV1.fasta"
+            "uri": "HHV1_X14112.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV1.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV1_X14112.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV1-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV1-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV2",
+      "name": "HHV2_Z86099",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV2-ReferenceSequenceTrack",
+        "trackId": "HHV2_Z86099-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV2.fasta"
+            "uri": "HHV2_Z86099.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV2.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV2_Z86099.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV2-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV2-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV3",
+      "name": "HHV3_X04370",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV3-ReferenceSequenceTrack",
+        "trackId": "HHV3_X04370-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV3.fasta"
+            "uri": "HHV3_X04370.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV3.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV3_X04370.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV3-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV3-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV4",
+      "name": "HHV4_NC_007605",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV4-ReferenceSequenceTrack",
+        "trackId": "HHV4_NC_007605-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV4.fasta"
+            "uri": "HHV4_NC_007605.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV4.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV4_NC_007605.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV4-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV4-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV5",
+      "name": "HHV5_X17403",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV5-ReferenceSequenceTrack",
+        "trackId": "HHV5_X17403-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV5.fasta"
+            "uri": "HHV5_X17403.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV5.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV5_X17403.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV5-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV5-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV6A",
+      "name": "HHV6_X83413",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV6A-ReferenceSequenceTrack",
+        "trackId": "HHV6_X83413-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV6A.fasta"
+            "uri": "HHV6_X83413.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV6A.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV6_X83413.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV6A-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV6A-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV6B_HST",
+      "name": "HHV6_AB021506",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV6B_HST-ReferenceSequenceTrack",
+        "trackId": "HHV6_AB021506-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV6B_HST.fasta"
+            "uri": "HHV6_AB021506.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV6B_HST.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV6_AB021506.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV6B_HST-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV6B_HST-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV6B_Z29",
+      "name": "HHV6_AF157706",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV6B_Z29-ReferenceSequenceTrack",
+        "trackId": "HHV6_AF157706-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV6B_Z29.fasta"
+            "uri": "HHV6_AF157706.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV6B_Z29.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV6_AF157706.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV6B_Z29-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV6B_Z29-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV7_RK",
+      "name": "HHV7_U43400",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV7_RK-ReferenceSequenceTrack",
+        "trackId": "HHV7_U43400-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV7_RK.fasta"
+            "uri": "HHV7_U43400.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV7_RK.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV7_U43400.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV7_RK-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV7_RK-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV7_JI",
+      "name": "HHV7_AF037218",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV7_JI-ReferenceSequenceTrack",
+        "trackId": "HHV7_AF037218-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV7_JI.fasta"
+            "uri": "HHV7_AF037218.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV7_JI.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV7_AF037218.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV7_JI-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV7_JI-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "HHV8_M",
+      "name": "HHV8_AF148805",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "HHV8_M-ReferenceSequenceTrack",
+        "trackId": "HHV8_AF148805-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV8_M.fasta"
+            "uri": "HHV8_AF148805.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "HHV8_M.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "HHV8_AF148805.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "HHV8_M-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "HHV8_M-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "McHV1",
+      "name": "McHV1_AF533768",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "McHV1-ReferenceSequenceTrack",
+        "trackId": "McHV1_AF533768-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "McHV1.fasta"
+            "uri": "McHV1_AF533768.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "McHV1.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "McHV1_AF533768.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "McHV1-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
-          },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "McHV1-ReferenceSequenceTrack-LinearGCContentDisplay"
-          }
-        ]
+        }
       }
     },
     {
-      "name": "MuGHV4",
+      "name": "MuGHV4_U97553",
       "sequence": {
         "type": "ReferenceSequenceTrack",
-        "trackId": "MuGHV4-ReferenceSequenceTrack",
+        "trackId": "MuGHV4_U97553-ReferenceSequenceTrack",
         "adapter": {
           "type": "IndexedFastaAdapter",
           "fastaLocation": {
-            "locationType": "UriLocation",
-            "uri": "MuGHV4.fasta"
+            "uri": "MuGHV4_U97553.fna",
+            "locationType": "UriLocation"
           },
           "faiLocation": {
-            "locationType": "UriLocation",
-            "uri": "MuGHV4.fasta.fai"
-          },
-          "metadataLocation": {
-            "locationType": "UriLocation",
-            "uri": "/path/to/fa.metadata.yaml"
+            "uri": "MuGHV4_U97553.fna.fai",
+            "locationType": "UriLocation"
           }
-        },
-        "displays": [
-          {
-            "type": "LinearReferenceSequenceDisplay",
-            "displayId": "MuGHV4-ReferenceSequenceTrack-LinearReferenceSequenceDisplay"
+        }
+      }
+    },
+    {
+      "name": "hhv1_hhv2",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "hhv1_hhv2-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "hhv1_hhv2.fna",
+            "locationType": "UriLocation"
           },
-          {
-            "type": "LinearGCContentDisplay",
-            "displayId": "MuGHV4-ReferenceSequenceTrack-LinearGCContentDisplay"
+          "faiLocation": {
+            "uri": "hhv1_hhv2.fna.fai",
+            "locationType": "UriLocation"
           }
-        ]
+        }
+      }
+    },
+    {
+      "name": "hhv6b",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "hhv6b-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "hhv6b.fna",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "hhv6b.fna.fai",
+            "locationType": "UriLocation"
+          }
+        }
       }
     }
   ],
-  "tracks": [
-    {
-      "type": "FeatureTrack",
-      "trackId": "genes.gff",
-      "name": "genes.gff",
-      "assemblyNames": [
-        "hg38"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV1.cleaned.gff3",
-      "name": "HHV1.cleaned.gff3",
-      "assemblyNames": [
-        "HHV1"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV1.cleaned.gff3.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV1.cleaned.gff3.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV1.cleaned.gff3-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV1.cleaned.gff3-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV2_clean_genes.gff",
-      "name": "HHV2_clean_genes.gff",
-      "assemblyNames": [
-        "HHV2.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV2_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV2_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV2_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV2_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV1_clean_genes.gff",
-      "name": "HHV1_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV1.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV1_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV1_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV1_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV1_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV3_clean_genes.gff",
-      "name": "HHV3_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV3.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV3_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV3_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV3_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV3_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV4_clean_genes.gff",
-      "name": "HHV4_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV4.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV4_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV4_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV4_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV4_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV5_clean_genes.gff",
-      "name": "HHV5_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV5.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV5_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV5_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV5_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV5_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV6A_clean_genes.gff",
-      "name": "HHV6A_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV6A.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV6A_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV6A_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV6A_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV6A_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV6B_HST_clean_genes.gff",
-      "name": "HHV6B_HST_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV6B_HST.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV6B_HST_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV6B_HST_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV6B_HST_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV6B_HST_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV6B_Z29_clean_genes.gff",
-      "name": "HHV6B_Z29_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV6B_Z29.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV6B_Z29_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV6B_Z29_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV6B_Z29_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV6B_Z29_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV7_RK_clean_genes.gff",
-      "name": "HHV7_RK_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV7_RK.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV7_RK_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV7_RK_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV7_RK_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV7_RK_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV7_JI_clean_genes.gff",
-      "name": "HHV7_JI_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV7_JI.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV7_JI_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV7_JI_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV7_JI_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV7_JI_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "HHV8_M_clean_genes.gff",
-      "name": "HHV8_M_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/HHV8_M.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "HHV8_M_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "HHV8_M_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "HHV8_M_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "HHV8_M_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "McHV1_clean_genes.gff",
-      "name": "McHV1_clean_genes.gff",
-      "assemblyNames": [
-        "/Users/lucile/Desktop/Herpes Genomes/McHV1.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "McHV1_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "McHV1_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "McHV1_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "McHV1_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    },
-    {
-      "type": "FeatureTrack",
-      "trackId": "MuGHV4_clean_genes.gff",
-      "name": "MuGHV4_clean_genes.gff",
-      "assemblyNames": [
-        "MuGHV4.fasta"
-      ],
-      "adapter": {
-        "type": "Gff3TabixAdapter",
-        "gffGzLocation": {
-          "locationType": "UriLocation",
-          "uri": "MuGHV4_clean_genes.gff.gz"
-        },
-        "index": {
-          "location": {
-            "locationType": "UriLocation",
-            "uri": "MuGHV4_clean_genes.gff.gz.tbi"
-          }
-        }
-      },
-      "displays": [
-        {
-          "type": "LinearBasicDisplay",
-          "displayId": "MuGHV4_clean_genes.gff-LinearBasicDisplay"
-        },
-        {
-          "type": "LinearArcDisplay",
-          "displayId": "MuGHV4_clean_genes.gff-LinearArcDisplay"
-        }
-      ]
-    }
-  ],
-  "internetAccounts": [],
-  "aggregateTextSearchAdapters": [
-    {
-      "type": "TrixTextSearchAdapter",
-      "textSearchAdapterId": "hg38-index",
-      "ixFilePath": {
-        "locationType": "UriLocation",
-        "uri": "trix/hg38.ix"
-      },
-      "ixxFilePath": {
-        "locationType": "UriLocation",
-        "uri": "trix/hg38.ixx"
-      },
-      "metaFilePath": {
-        "locationType": "UriLocation",
-        "uri": "trix/hg38_meta.json"
-      },
-      "assemblyNames": [
-        "hg38"
-      ]
-    },
-    {
-      "type": "TrixTextSearchAdapter",
-      "textSearchAdapterId": "HHV1-index",
-      "ixFilePath": {
-        "locationType": "UriLocation",
-        "uri": "trix/HHV1.ix"
-      },
-      "ixxFilePath": {
-        "locationType": "UriLocation",
-        "uri": "trix/HHV1.ixx"
-      },
-      "metaFilePath": {
-        "locationType": "UriLocation",
-        "uri": "trix/HHV1_meta.json"
-      },
-      "assemblyNames": [
-        "HHV1"
-      ]
-    }
-  ],
+  "configuration": {},
   "connections": [],
   "defaultSession": {
     "name": "New Session"
-  }
+  },
+  "tracks": [
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV1_X14112_clean_genes.gff",
+      "name": "HHV1_X14112_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV1_X14112_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV1_X14112_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV1_X14112"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV2_Z86099_clean_genes.gff",
+      "name": "HHV2_Z86099_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV2_Z86099_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV2_Z86099_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV2_Z86099"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV3_X04370_clean_genes.gff",
+      "name": "HHV3_X04370_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV3_X04370_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV3_X04370_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV3_X04370"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV4_NC_007605_clean_genes.gff",
+      "name": "HHV4_NC_007605_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV4_NC_007605_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV4_NC_007605_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV4_NC_007605"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV5_X17403_clean_genes.gff",
+      "name": "HHV5_X17403_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV5_X17403_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV5_X17403_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV5_X17403"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV6_X83413_clean_genes.gff",
+      "name": "HHV6_X83413_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV6_X83413_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV6_X83413_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV6_X83413"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV6_AB021506_clean_genes.gff",
+      "name": "HHV6_AB021506_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV6_AB021506_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV6_AB021506_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV6_AB021506"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV6_AF157706_clean_genes.gff",
+      "name": "HHV6_AF157706_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV6_AF157706_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV6_AF157706_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV6_AF157706"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV7_U43400_clean_genes.gff",
+      "name": "HHV7_U43400_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV7_U43400_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV7_U43400_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV7_U43400"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV7_AF037218_clean_genes.gff",
+      "name": "HHV7_AF037218_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV7_AF037218_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV7_AF037218_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV7_AF037218"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV8_U75698_clean_genes.gff",
+      "name": "HHV8_U75698_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV8_U75698_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV8_U75698_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV8_U75698"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV8_U93872_clean_genes.gff",
+      "name": "HHV8_U93872_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV8_U93872_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV8_U93872_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV8_U93872"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "HHV8_AF148805_clean_genes.gff",
+      "name": "HHV8_AF148805_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV8_AF148805_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV8_AF148805_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "HHV8_AF148805"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "McHV1_AF533768_clean_genes.gff",
+      "name": "McHV1_AF533768_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "McHV1_AF533768_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "McHV1_AF533768_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "McHV1_AF533768"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "MuGHV4_U97553_clean_genes.gff",
+      "name": "MuGHV4_U97553_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "MuGHV4_U97553_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "MuGHV4_U97553_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "MuGHV4_U97553"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "hhv1_hhv2_clean_genes.gff",
+      "name": "hhv1_hhv2_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "hhv1_hhv2_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "hhv1_hhv2_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "hhv1_hhv2"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "hhv6b_clean_genes.gff",
+      "name": "hhv6b_clean_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "hhv6b_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "hhv6b_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "hhv6b"
+      ]
+    }
+  ],
+  "aggregateTextSearchAdapters": [
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV1_X14112-index",
+      "ixFilePath": {
+        "uri": "trix/HHV1_X14112.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV1_X14112.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV1_X14112_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV1_X14112"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV2_Z86099-index",
+      "ixFilePath": {
+        "uri": "trix/HHV2_Z86099.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV2_Z86099.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV2_Z86099_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV2_Z86099"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV3_X04370-index",
+      "ixFilePath": {
+        "uri": "trix/HHV3_X04370.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV3_X04370.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV3_X04370_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV3_X04370"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV4_NC_007605-index",
+      "ixFilePath": {
+        "uri": "trix/HHV4_NC_007605.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV4_NC_007605.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV4_NC_007605_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV4_NC_007605"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV5_X17403-index",
+      "ixFilePath": {
+        "uri": "trix/HHV5_X17403.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV5_X17403.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV5_X17403_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV5_X17403"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV6_X83413-index",
+      "ixFilePath": {
+        "uri": "trix/HHV6_X83413.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV6_X83413.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV6_X83413_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV6_X83413"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV6_AB021506-index",
+      "ixFilePath": {
+        "uri": "trix/HHV6_AB021506.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV6_AB021506.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV6_AB021506_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV6_AB021506"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV6_AF157706-index",
+      "ixFilePath": {
+        "uri": "trix/HHV6_AF157706.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV6_AF157706.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV6_AF157706_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV6_AF157706"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV7_U43400-index",
+      "ixFilePath": {
+        "uri": "trix/HHV7_U43400.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV7_U43400.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV7_U43400_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV7_U43400"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV7_AF037218-index",
+      "ixFilePath": {
+        "uri": "trix/HHV7_AF037218.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV7_AF037218.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV7_AF037218_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV7_AF037218"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "HHV8_AF148805-index",
+      "ixFilePath": {
+        "uri": "trix/HHV8_AF148805.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/HHV8_AF148805.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/HHV8_AF148805_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "HHV8_AF148805"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "McHV1_AF533768-index",
+      "ixFilePath": {
+        "uri": "trix/McHV1_AF533768.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/McHV1_AF533768.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/McHV1_AF533768_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "McHV1_AF533768"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "MuGHV4_U97553-index",
+      "ixFilePath": {
+        "uri": "trix/MuGHV4_U97553.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/MuGHV4_U97553.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/MuGHV4_U97553_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "MuGHV4_U97553"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "hhv1_hhv2-index",
+      "ixFilePath": {
+        "uri": "trix/hhv1_hhv2.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/hhv1_hhv2.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/hhv1_hhv2_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "hhv1_hhv2"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "hhv6b-index",
+      "ixFilePath": {
+        "uri": "trix/hhv6b.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/hhv6b.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/hhv6b_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "hhv6b"
+      ]
+    }
+  ]
 }
