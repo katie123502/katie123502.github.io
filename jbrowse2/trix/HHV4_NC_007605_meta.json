@@ -1,0 +1,33 @@
+{
+  "dateCreated": "2024-12-09T08:53:01.744Z",
+  "tracks": [
+    {
+      "trackId": "HHV4_NC_007605_clean_genes.gff",
+      "attributesIndexed": [
+        "Name",
+        "ID"
+      ],
+      "excludedTypes": [
+        "CDS",
+        "exon"
+      ],
+      "adapterConf": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "HHV4_NC_007605_clean_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "HHV4_NC_007605_clean_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      }
+    }
+  ],
+  "assemblyNames": [
+    "HHV4_NC_007605"
+  ]
+}

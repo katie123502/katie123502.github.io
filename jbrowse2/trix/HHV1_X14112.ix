@@ -1,0 +1,338 @@
+gene-rl1 ["X14112.1%3A513..1539"|"HHV1_X14112_clean_genes.gff"|"RL1"|"gene-RL1"],1
+gene-rl1-2 ["X14112.1%3A124832..125858"|"HHV1_X14112_clean_genes.gff"|"RL1"|"gene-RL1-2"],1
+gene-rl2 ["X14112.1%3A2115..5681"|"HHV1_X14112_clean_genes.gff"|"RL2"|"gene-RL2"],1
+gene-rl2-2 ["X14112.1%3A120690..124110"|"HHV1_X14112_clean_genes.gff"|"RL2"|"gene-RL2-2"],1
+gene-rs1 ["X14112.1%3A127184..131128"|"HHV1_X14112_clean_genes.gff"|"RS1"|"gene-RS1"],1
+gene-rs1-2 ["X14112.1%3A147105..151049"|"HHV1_X14112_clean_genes.gff"|"RS1"|"gene-RS1-2"],1
+gene-ul1 ["X14112.1%3A9337..10011"|"HHV1_X14112_clean_genes.gff"|"UL1"|"gene-UL1"],1
+gene-ul1-2 ["X14112.1%3A10943..10948"|"HHV1_X14112_clean_genes.gff"|"UL1"|"gene-UL1-2"],1
+gene-ul1-3 ["X14112.1%3A11715..11720"|"HHV1_X14112_clean_genes.gff"|"UL1"|"gene-UL1-3"],1
+gene-ul10 ["X14112.1%3A23204..24648"|"HHV1_X14112_clean_genes.gff"|"UL10"|"gene-UL10"],1
+gene-ul11 ["X14112.1%3A24800..25501"|"HHV1_X14112_clean_genes.gff"|"UL11"|"gene-UL11"],1
+gene-ul11-2 ["X14112.1%3A24800..24805"|"HHV1_X14112_clean_genes.gff"|"UL11"|"gene-UL11-2"],1
+gene-ul12 ["X14112.1%3A24800..27046"|"HHV1_X14112_clean_genes.gff"|"UL12"|"gene-UL12"],1
+gene-ul13 ["X14112.1%3A24800..28691"|"HHV1_X14112_clean_genes.gff"|"UL13"|"gene-UL13"],1
+gene-ul14 ["X14112.1%3A28256..28915"|"HHV1_X14112_clean_genes.gff"|"UL14"|"gene-UL14"],1
+gene-ul15 ["X14112.1%3A28804..34825"|"HHV1_X14112_clean_genes.gff"|"UL15"|"gene-UL15"],1
+gene-ul16 ["X14112.1%3A30173..31670"|"HHV1_X14112_clean_genes.gff"|"UL16"|"gene-UL16"],1
+gene-ul16-2 ["X14112.1%3A30173..30178"|"HHV1_X14112_clean_genes.gff"|"UL16"|"gene-UL16-2"],1
+gene-ul17 ["X14112.1%3A30173..33666"|"HHV1_X14112_clean_genes.gff"|"UL17"|"gene-UL17"],1
+gene-ul18 ["X14112.1%3A35023..35032"|"HHV1_X14112_clean_genes.gff"|"UL18"|"gene-UL18"],1
+gene-ul18-2 ["X14112.1%3A35095..36051"|"HHV1_X14112_clean_genes.gff"|"UL18"|"gene-UL18-2"],1
+gene-ul19 ["X14112.1%3A35028..40768"|"HHV1_X14112_clean_genes.gff"|"UL19"|"gene-UL19"],1
+gene-ul19-2 ["X14112.1%3A35028..36405"|"HHV1_X14112_clean_genes.gff"|"UL19"|"gene-UL19-2"],1
+gene-ul2 ["X14112.1%3A9884..10888"|"HHV1_X14112_clean_genes.gff"|"UL2"|"gene-UL2"],1
+gene-ul20 ["X14112.1%3A40820..41488"|"HHV1_X14112_clean_genes.gff"|"UL20"|"gene-UL20"],1
+gene-ul21 ["X14112.1%3A42074..43695"|"HHV1_X14112_clean_genes.gff"|"UL21"|"gene-UL21"],1
+gene-ul22 ["X14112.1%3A43824..46581"|"HHV1_X14112_clean_genes.gff"|"UL22"|"gene-UL22"],1
+gene-ul23 ["X14112.1%3A46608..47911"|"HHV1_X14112_clean_genes.gff"|"UL23"|"gene-UL23"],1
+gene-ul24 ["X14112.1%3A47737..48744"|"HHV1_X14112_clean_genes.gff"|"UL24"|"gene-UL24"],1
+gene-ul24-2 ["X14112.1%3A52766..52771"|"HHV1_X14112_clean_genes.gff"|"UL24"|"gene-UL24-2"],1
+gene-ul25 ["X14112.1%3A48813..50555"|"HHV1_X14112_clean_genes.gff"|"UL25"|"gene-UL25"],1
+gene-ul26 ["X14112.1%3A50809..52716"|"HHV1_X14112_clean_genes.gff"|"UL26"|"gene-UL26"],1
+gene-ul26.5 ["X14112.1%3A51727..52716"|"HHV1_X14112_clean_genes.gff"|"UL26.5"|"gene-UL26.5"],1
+gene-ul27 ["X14112.1%3A53058..56080"|"HHV1_X14112_clean_genes.gff"|"UL27"|"gene-UL27"],1
+gene-ul27-2 ["X14112.1%3A53058..53063"|"HHV1_X14112_clean_genes.gff"|"UL27"|"gene-UL27-2"],1
+gene-ul28 ["X14112.1%3A53058..58320"|"HHV1_X14112_clean_genes.gff"|"UL28"|"gene-UL28"],1
+gene-ul28-2 ["X14112.1%3A58409..62319"|"HHV1_X14112_clean_genes.gff"|"UL28"|"gene-UL28-2"],1
+gene-ul29 ["X14112.1%3A58409..58414"|"HHV1_X14112_clean_genes.gff"|"UL29"|"gene-UL29"],1 ["X14112.1%3A58463..62053"|"HHV1_X14112_clean_genes.gff"|"UL29"|"gene-UL29"],2
+gene-ul3 ["X14112.1%3A10957..11664"|"HHV1_X14112_clean_genes.gff"|"UL3"|"gene-UL3"],1
+gene-ul30 ["X14112.1%3A62606..66553"|"HHV1_X14112_clean_genes.gff"|"UL30"|"gene-UL30"],1
+gene-ul31 ["X14112.1%3A66377..66382"|"HHV1_X14112_clean_genes.gff"|"UL31"|"gene-UL31"],1
+gene-ul31-2 ["X14112.1%3A66459..67379"|"HHV1_X14112_clean_genes.gff"|"UL31"|"gene-UL31-2"],1
+gene-ul32 ["X14112.1%3A67372..69162"|"HHV1_X14112_clean_genes.gff"|"UL32"|"gene-UL32"],1
+gene-ul33 ["X14112.1%3A69161..69553"|"HHV1_X14112_clean_genes.gff"|"UL33"|"gene-UL33"],1
+gene-ul33-2 ["X14112.1%3A70938..70943"|"HHV1_X14112_clean_genes.gff"|"UL33"|"gene-UL33-2"],1
+gene-ul34 ["X14112.1%3A69633..70460"|"HHV1_X14112_clean_genes.gff"|"UL34"|"gene-UL34"],1
+gene-ul35 ["X14112.1%3A70566..70904"|"HHV1_X14112_clean_genes.gff"|"UL35"|"gene-UL35"],1
+gene-ul36 ["X14112.1%3A70983..80543"|"HHV1_X14112_clean_genes.gff"|"UL36"|"gene-UL36"],1
+gene-ul37 ["X14112.1%3A80712..84084"|"HHV1_X14112_clean_genes.gff"|"UL37"|"gene-UL37"],1
+gene-ul38 ["X14112.1%3A84531..86021"|"HHV1_X14112_clean_genes.gff"|"UL38"|"gene-UL38"],1
+gene-ul38-2 ["X14112.1%3A90983..90988"|"HHV1_X14112_clean_genes.gff"|"UL38"|"gene-UL38-2"],1
+gene-ul39 ["X14112.1%3A86217..90988"|"HHV1_X14112_clean_genes.gff"|"UL39"|"gene-UL39"],1
+gene-ul4 ["X14112.1%3A11753..11758"|"HHV1_X14112_clean_genes.gff"|"UL4"|"gene-UL4"],1
+gene-ul4-2 ["X14112.1%3A11823..12422"|"HHV1_X14112_clean_genes.gff"|"UL4"|"gene-UL4-2"],1
+gene-ul40 ["X14112.1%3A89773..90988"|"HHV1_X14112_clean_genes.gff"|"UL40"|"gene-UL40"],1
+gene-ul41 ["X14112.1%3A91116..92740"|"HHV1_X14112_clean_genes.gff"|"UL41"|"gene-UL41"],1
+gene-ul42 ["X14112.1%3A92920..94638"|"HHV1_X14112_clean_genes.gff"|"UL42"|"gene-UL42"],1
+gene-ul43 ["X14112.1%3A94748..96052"|"HHV1_X14112_clean_genes.gff"|"UL43"|"gene-UL43"],1 ["X14112.1%3A96063..96068"|"HHV1_X14112_clean_genes.gff"|"UL43"|"gene-UL43"],2
+gene-ul44 ["X14112.1%3A95168..98668"|"HHV1_X14112_clean_genes.gff"|"UL44"|"gene-UL44"],1
+gene-ul44-2 ["X14112.1%3A98663..98668"|"HHV1_X14112_clean_genes.gff"|"UL44"|"gene-UL44-2"],1
+gene-ul45 ["X14112.1%3A97953..98668"|"HHV1_X14112_clean_genes.gff"|"UL45"|"gene-UL45"],1
+gene-ul46 ["X14112.1%3A98726..100998"|"HHV1_X14112_clean_genes.gff"|"UL46"|"gene-UL46"],1
+gene-ul46-2 ["X14112.1%3A98726..98731"|"HHV1_X14112_clean_genes.gff"|"UL46"|"gene-UL46-2"],1
+gene-ul47 ["X14112.1%3A98726..105259"|"HHV1_X14112_clean_genes.gff"|"UL47"|"gene-UL47"],1
+gene-ul48 ["X14112.1%3A103537..105259"|"HHV1_X14112_clean_genes.gff"|"UL48"|"gene-UL48"],1
+gene-ul49 ["X14112.1%3A105462..105467"|"HHV1_X14112_clean_genes.gff"|"UL49"|"gene-UL49"],1
+gene-ul49-2 ["X14112.1%3A105486..106391"|"HHV1_X14112_clean_genes.gff"|"UL49"|"gene-UL49-2"],1
+gene-ul49a ["X14112.1%3A106718..106993"|"HHV1_X14112_clean_genes.gff"|"UL49A"|"gene-UL49A"],1
+gene-ul5 ["X14112.1%3A12483..15131"|"HHV1_X14112_clean_genes.gff"|"UL5"|"gene-UL5"],1
+gene-ul50 ["X14112.1%3A107010..108157"|"HHV1_X14112_clean_genes.gff"|"UL50"|"gene-UL50"],1
+gene-ul51 ["X14112.1%3A108276..109011"|"HHV1_X14112_clean_genes.gff"|"UL51"|"gene-UL51"],1
+gene-ul52 ["X14112.1%3A109048..112224"|"HHV1_X14112_clean_genes.gff"|"UL52"|"gene-UL52"],1
+gene-ul52-2 ["X14112.1%3A113443..113448"|"HHV1_X14112_clean_genes.gff"|"UL52"|"gene-UL52-2"],1
+gene-ul53 ["X14112.1%3A112179..113195"|"HHV1_X14112_clean_genes.gff"|"UL53"|"gene-UL53"],1
+gene-ul54 ["X14112.1%3A113596..115282"|"HHV1_X14112_clean_genes.gff"|"UL54"|"gene-UL54"],1
+gene-ul55 ["X14112.1%3A115496..116103"|"HHV1_X14112_clean_genes.gff"|"UL55"|"gene-UL55"],1
+gene-ul56 ["X14112.1%3A116196..116925"|"HHV1_X14112_clean_genes.gff"|"UL56"|"gene-UL56"],1
+gene-ul6 ["X14112.1%3A15130..17160"|"HHV1_X14112_clean_genes.gff"|"UL6"|"gene-UL6"],1
+gene-ul6-2 ["X14112.1%3A18035..18040"|"HHV1_X14112_clean_genes.gff"|"UL6"|"gene-UL6-2"],1
+gene-ul7 ["X14112.1%3A17135..18025"|"HHV1_X14112_clean_genes.gff"|"UL7"|"gene-UL7"],1
+gene-ul8 ["X14112.1%3A18210..18215"|"HHV1_X14112_clean_genes.gff"|"UL8"|"gene-UL8"],1
+gene-ul8-2 ["X14112.1%3A18224..20476"|"HHV1_X14112_clean_genes.gff"|"UL8"|"gene-UL8-2"],1
+gene-ul9 ["X14112.1%3A20704..23259"|"HHV1_X14112_clean_genes.gff"|"UL9"|"gene-UL9"],1
+gene-us1 ["X14112.1%3A132605..133960"|"HHV1_X14112_clean_genes.gff"|"US1"|"gene-US1"],1
+gene-us10 ["X14112.1%3A144119..145166"|"HHV1_X14112_clean_genes.gff"|"US10"|"gene-US10"],1
+gene-us10-2 ["X14112.1%3A144135..144140"|"HHV1_X14112_clean_genes.gff"|"US10"|"gene-US10-2"],1
+gene-us10-3 ["X14112.1%3A145188..145194"|"HHV1_X14112_clean_genes.gff"|"US10"|"gene-US10-3"],1
+gene-us11 ["X14112.1%3A144119..145464"|"HHV1_X14112_clean_genes.gff"|"US11"|"gene-US11"],1
+gene-us11-2 ["X14112.1%3A145484..145495"|"HHV1_X14112_clean_genes.gff"|"US11"|"gene-US11-2"],1
+gene-us12 ["X14112.1%3A144119..145584"|"HHV1_X14112_clean_genes.gff"|"US12"|"gene-US12"],1
+gene-us2 ["X14112.1%3A134023..135304"|"HHV1_X14112_clean_genes.gff"|"US2"|"gene-US2"],1
+gene-us3 ["X14112.1%3A134934..134940"|"HHV1_X14112_clean_genes.gff"|"US3"|"gene-US3"],1
+gene-us3-2 ["X14112.1%3A134964..137531"|"HHV1_X14112_clean_genes.gff"|"US3"|"gene-US3-2"],1
+gene-us3-3 ["X14112.1%3A137508..137513"|"HHV1_X14112_clean_genes.gff"|"US3"|"gene-US3-3"],1
+gene-us4 ["X14112.1%3A136702..136709"|"HHV1_X14112_clean_genes.gff"|"US4"|"gene-US4"],1
+gene-us4-2 ["X14112.1%3A136729..137531"|"HHV1_X14112_clean_genes.gff"|"US4"|"gene-US4-2"],1
+gene-us5 ["X14112.1%3A137595..137601"|"HHV1_X14112_clean_genes.gff"|"US5"|"gene-US5"],1
+gene-us5-2 ["X14112.1%3A137618..141048"|"HHV1_X14112_clean_genes.gff"|"US5"|"gene-US5-2"],1
+gene-us5-3 ["X14112.1%3A141013..141018"|"HHV1_X14112_clean_genes.gff"|"US5"|"gene-US5-3"],1
+gene-us6 ["X14112.1%3A138309..138316"|"HHV1_X14112_clean_genes.gff"|"US6"|"gene-US6"],1
+gene-us6-2 ["X14112.1%3A138333..141048"|"HHV1_X14112_clean_genes.gff"|"US6"|"gene-US6-2"],1
+gene-us7 ["X14112.1%3A139666..139673"|"HHV1_X14112_clean_genes.gff"|"US7"|"gene-US7"],1
+gene-us7-2 ["X14112.1%3A139694..141048"|"HHV1_X14112_clean_genes.gff"|"US7"|"gene-US7-2"],1
+gene-us8 ["X14112.1%3A141139..141145"|"HHV1_X14112_clean_genes.gff"|"US8"|"gene-US8"],1
+gene-us8-2 ["X14112.1%3A141171..143693"|"HHV1_X14112_clean_genes.gff"|"US8"|"gene-US8-2"],1
+gene-us8-3 ["X14112.1%3A143668..143673"|"HHV1_X14112_clean_genes.gff"|"US8"|"gene-US8-3"],1
+gene-us8a ["X14112.1%3A142744..143223"|"HHV1_X14112_clean_genes.gff"|"US8A"|"gene-US8A"],1
+gene-us9 ["X14112.1%3A143219..143224"|"HHV1_X14112_clean_genes.gff"|"US9"|"gene-US9"],1
+gene-us9-2 ["X14112.1%3A143246..143693"|"HHV1_X14112_clean_genes.gff"|"US9"|"gene-US9-2"],1
+id-rl1 ["X14112.1%3A997..1040"|"HHV1_X14112_clean_genes.gff"|"id-RL1"],1
+id-rl1-2 ["X14112.1%3A1534..1539"|"HHV1_X14112_clean_genes.gff"|"id-RL1-2"],1
+id-rl1-3 ["X14112.1%3A997..1032"|"HHV1_X14112_clean_genes.gff"|"id-RL1-3"],1
+id-rl1-4 ["X14112.1%3A124832..124837"|"HHV1_X14112_clean_genes.gff"|"id-RL1-4"],1
+id-rl2 ["X14112.1%3A2318..3082"|"HHV1_X14112_clean_genes.gff"|"id-RL2"],1
+id-rl2-4 ["X14112.1%3A3750..3885"|"HHV1_X14112_clean_genes.gff"|"id-RL2-4"],1
+id-rl2-5 ["X14112.1%3A2465..2625"|"HHV1_X14112_clean_genes.gff"|"id-RL2-5"],1
+id-rl2-6 ["X14112.1%3A5636..5641"|"HHV1_X14112_clean_genes.gff"|"id-RL2-6"],1
+id-rl2-7 ["X14112.1%3A5676..5681"|"HHV1_X14112_clean_genes.gff"|"id-RL2-7"],1
+id-rl2-8 ["X14112.1%3A120690..120695"|"HHV1_X14112_clean_genes.gff"|"id-RL2-8"],1
+id-rs1 ["X14112.1%3A127184..127189"|"HHV1_X14112_clean_genes.gff"|"id-RS1"],1
+id-rs1-2 ["X14112.1%3A151044..151049"|"HHV1_X14112_clean_genes.gff"|"id-RS1-2"],1
+id-ul1 ["X14112.1%3A10943..10948"|"HHV1_X14112_clean_genes.gff"|"id-UL1"],1
+id-ul1-2 ["X14112.1%3A11715..11720"|"HHV1_X14112_clean_genes.gff"|"id-UL1-2"],1
+id-ul10 ["X14112.1%3A24643..24648"|"HHV1_X14112_clean_genes.gff"|"id-UL10"],1
+id-ul11 ["X14112.1%3A24800..24805"|"HHV1_X14112_clean_genes.gff"|"id-UL11"],1
+id-ul15 ["X14112.1%3A34820..34825"|"HHV1_X14112_clean_genes.gff"|"id-UL15"],1
+id-ul16 ["X14112.1%3A30173..30178"|"HHV1_X14112_clean_genes.gff"|"id-UL16"],1
+id-ul18 ["X14112.1%3A35023..35028"|"HHV1_X14112_clean_genes.gff"|"id-UL18"],1
+id-ul18-2 ["X14112.1%3A35027..35032"|"HHV1_X14112_clean_genes.gff"|"id-UL18-2"],1
+id-ul19 ["X14112.1%3A35028..36405"|"HHV1_X14112_clean_genes.gff"|"id-UL19"],1
+id-ul21 ["X14112.1%3A43690..43695"|"HHV1_X14112_clean_genes.gff"|"id-UL21"],1
+id-ul22 ["X14112.1%3A43824..43829"|"HHV1_X14112_clean_genes.gff"|"id-UL22"],1
+id-ul22-2 ["X14112.1%3A43865..43870"|"HHV1_X14112_clean_genes.gff"|"id-UL22-2"],1
+id-ul23 ["X14112.1%3A46608..46613"|"HHV1_X14112_clean_genes.gff"|"id-UL23"],1
+id-ul23-2 ["X14112.1%3A46621..46626"|"HHV1_X14112_clean_genes.gff"|"id-UL23-2"],1
+id-ul24 ["X14112.1%3A48739..48744"|"HHV1_X14112_clean_genes.gff"|"id-UL24"],1
+id-ul24-2 ["X14112.1%3A52766..52771"|"HHV1_X14112_clean_genes.gff"|"id-UL24-2"],1
+id-ul27 ["X14112.1%3A53058..53063"|"HHV1_X14112_clean_genes.gff"|"id-UL27"],1
+id-ul29 ["X14112.1%3A58409..58414"|"HHV1_X14112_clean_genes.gff"|"id-UL29"],1
+id-ul30 ["X14112.1%3A66548..66553"|"HHV1_X14112_clean_genes.gff"|"id-UL30"],1
+id-ul31 ["X14112.1%3A66377..66382"|"HHV1_X14112_clean_genes.gff"|"id-UL31"],1
+id-ul33 ["X14112.1%3A70938..70943"|"HHV1_X14112_clean_genes.gff"|"id-UL33"],1
+id-ul36 ["X14112.1%3A70983..70988"|"HHV1_X14112_clean_genes.gff"|"id-UL36"],1
+id-ul37 ["X14112.1%3A80712..80717"|"HHV1_X14112_clean_genes.gff"|"id-UL37"],1
+id-ul38 ["X14112.1%3A90983..90988"|"HHV1_X14112_clean_genes.gff"|"id-UL38"],1
+id-ul38-2 ["X14112.1%3A86016..86021"|"HHV1_X14112_clean_genes.gff"|"id-UL38-2"],1
+id-ul4 ["X14112.1%3A11753..11758"|"HHV1_X14112_clean_genes.gff"|"id-UL4"],1
+id-ul41 ["X14112.1%3A91116..91121"|"HHV1_X14112_clean_genes.gff"|"id-UL41"],1
+id-ul42 ["X14112.1%3A94633..94638"|"HHV1_X14112_clean_genes.gff"|"id-UL42"],1
+id-ul43 ["X14112.1%3A96063..96068"|"HHV1_X14112_clean_genes.gff"|"id-UL43"],1
+id-ul44 ["X14112.1%3A98663..98668"|"HHV1_X14112_clean_genes.gff"|"id-UL44"],1
+id-ul46 ["X14112.1%3A98726..98731"|"HHV1_X14112_clean_genes.gff"|"id-UL46"],1
+id-ul48 ["X14112.1%3A103537..103542"|"HHV1_X14112_clean_genes.gff"|"id-UL48"],1
+id-ul49 ["X14112.1%3A105462..105467"|"HHV1_X14112_clean_genes.gff"|"id-UL49"],1
+id-ul50 ["X14112.1%3A108152..108157"|"HHV1_X14112_clean_genes.gff"|"id-UL50"],1
+id-ul51 ["X14112.1%3A108276..108281"|"HHV1_X14112_clean_genes.gff"|"id-UL51"],1
+id-ul52 ["X14112.1%3A113443..113448"|"HHV1_X14112_clean_genes.gff"|"id-UL52"],1
+id-ul54 ["X14112.1%3A115277..115282"|"HHV1_X14112_clean_genes.gff"|"id-UL54"],1
+id-ul55 ["X14112.1%3A116098..116103"|"HHV1_X14112_clean_genes.gff"|"id-UL55"],1
+id-ul56 ["X14112.1%3A116196..116201"|"HHV1_X14112_clean_genes.gff"|"id-UL56"],1
+id-ul56-2 ["X14112.1%3A116200..116205"|"HHV1_X14112_clean_genes.gff"|"id-UL56-2"],1
+id-ul6 ["X14112.1%3A18035..18040"|"HHV1_X14112_clean_genes.gff"|"id-UL6"],1
+id-ul8 ["X14112.1%3A18210..18215"|"HHV1_X14112_clean_genes.gff"|"id-UL8"],1
+id-us1 ["X14112.1%3A133941..133946"|"HHV1_X14112_clean_genes.gff"|"id-US1"],1
+id-us10 ["X14112.1%3A144135..144140"|"HHV1_X14112_clean_genes.gff"|"id-US10"],1
+id-us10-2 ["X14112.1%3A145188..145194"|"HHV1_X14112_clean_genes.gff"|"id-US10-2"],1
+id-us11 ["X14112.1%3A145484..145495"|"HHV1_X14112_clean_genes.gff"|"id-US11"],1
+id-us2 ["X14112.1%3A134036..134041"|"HHV1_X14112_clean_genes.gff"|"id-US2"],1
+id-us3 ["X14112.1%3A137508..137513"|"HHV1_X14112_clean_genes.gff"|"id-US3"],1
+id-us3-2 ["X14112.1%3A134934..134940"|"HHV1_X14112_clean_genes.gff"|"id-US3-2"],1
+id-us3-3 ["X14112.1%3A135163..135168"|"HHV1_X14112_clean_genes.gff"|"id-US3-3"],1
+id-us4 ["X14112.1%3A136702..136709"|"HHV1_X14112_clean_genes.gff"|"id-US4"],1
+id-us5 ["X14112.1%3A141013..141018"|"HHV1_X14112_clean_genes.gff"|"id-US5"],1
+id-us5-2 ["X14112.1%3A137595..137601"|"HHV1_X14112_clean_genes.gff"|"id-US5-2"],1
+id-us6 ["X14112.1%3A138309..138316"|"HHV1_X14112_clean_genes.gff"|"id-US6"],1
+id-us7 ["X14112.1%3A139666..139673"|"HHV1_X14112_clean_genes.gff"|"id-US7"],1
+id-us8 ["X14112.1%3A143668..143673"|"HHV1_X14112_clean_genes.gff"|"id-US8"],1
+id-us8-2 ["X14112.1%3A141139..141145"|"HHV1_X14112_clean_genes.gff"|"id-US8-2"],1
+id-us9 ["X14112.1%3A143219..143224"|"HHV1_X14112_clean_genes.gff"|"id-US9"],1
+id-x14112.1:1..401 ["X14112.1%3A1..401"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A1..401"],1
+id-x14112.1:1..9212 ["X14112.1%3A1..9212"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A1..9212"],1
+id-x14112.1:117160..117340 ["X14112.1%3A117160..117340"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A117160..117340"],1
+id-x14112.1:117160..126372 ["X14112.1%3A117160..126372"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A117160..126372"],1
+id-x14112.1:117788..117819 ["X14112.1%3A117788..117819"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A117788..117819"],1
+id-x14112.1:119465..119465 ["X14112.1%3A119465..119465"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A119465..119465"],1
+id-x14112.1:120494..120640 ["X14112.1%3A120494..120640"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A120494..120640"],1
+id-x14112.1:121417..121417 ["X14112.1%3A121417..121417"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A121417..121417"],1
+id-x14112.1:123745..123906 ["X14112.1%3A123745..123906"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A123745..123906"],1
+id-x14112.1:125331..125383 ["X14112.1%3A125331..125383"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A125331..125383"],1
+id-x14112.1:125972..126372 ["X14112.1%3A125972..126372"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A125972..126372"],1
+id-x14112.1:126051..126272 ["X14112.1%3A126051..126272"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A126051..126272"],1
+id-x14112.1:126373..126373 ["X14112.1%3A126373..126373"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A126373..126373"],1
+id-x14112.1:126571..126708 ["X14112.1%3A126571..126708"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A126571..126708"],1
+id-x14112.1:126810..127142 ["X14112.1%3A126810..127142"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A126810..127142"],1
+id-x14112.1:127143..127148 ["X14112.1%3A127143..127148"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A127143..127148"],1
+id-x14112.1:131999..131999 ["X14112.1%3A131999..131999"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A131999..131999"],1
+id-x14112.1:132374..132539 ["X14112.1%3A132374..132539"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A132374..132539"],1
+id-x14112.1:132388..132513 ["X14112.1%3A132388..132513"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A132388..132513"],1
+id-x14112.1:132605..145584 ["X14112.1%3A132605..145584"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A132605..145584"],1
+id-x14112.1:143712..143861 ["X14112.1%3A143712..143861"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A143712..143861"],1
+id-x14112.1:144810..144985 ["X14112.1%3A144810..144985"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A144810..144985"],1
+id-x14112.1:145585..152261 ["X14112.1%3A145585..152261"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A145585..152261"],1
+id-x14112.1:145649..145860 ["X14112.1%3A145649..145860"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A145649..145860"],1
+id-x14112.1:145676..145807 ["X14112.1%3A145676..145807"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A145676..145807"],1
+id-x14112.1:145676..145849 ["X14112.1%3A145676..145849"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A145676..145849"],1
+id-x14112.1:146175..146291 ["X14112.1%3A146175..146291"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A146175..146291"],1
+id-x14112.1:146235..146235 ["X14112.1%3A146235..146235"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A146235..146235"],1
+id-x14112.1:151091..151413 ["X14112.1%3A151091..151413"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A151091..151413"],1
+id-x14112.1:151525..151652 ["X14112.1%3A151525..151652"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A151525..151652"],1
+id-x14112.1:151860..152261 ["X14112.1%3A151860..152261"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A151860..152261"],1
+id-x14112.1:151960..152175 ["X14112.1%3A151960..152175"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A151960..152175"],1
+id-x14112.1:151961..152182 ["X14112.1%3A151961..152182"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A151961..152182"],1
+id-x14112.1:17547..117567 ["X14112.1%3A17547..117567"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A17547..117567"],1
+id-x14112.1:4953..6907 ["X14112.1%3A4953..6907"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A4953..6907"],1
+id-x14112.1:5733..5877 ["X14112.1%3A5733..5877"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A5733..5877"],1
+id-x14112.1:62475..62476 ["X14112.1%3A62475..62476"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A62475..62476"],1
+id-x14112.1:71604..71813 ["X14112.1%3A71604..71813"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A71604..71813"],1
+id-x14112.1:8554..8583 ["X14112.1%3A8554..8583"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A8554..8583"],1
+id-x14112.1:8806..8826 ["X14112.1%3A8806..8826"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A8806..8826"],1
+id-x14112.1:9032..9212 ["X14112.1%3A9032..9212"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A9032..9212"],1
+id-x14112.1:9213..117160 ["X14112.1%3A9213..117160"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A9213..117160"],1
+id-x14112.1:98..313 ["X14112.1%3A98..313"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A98..313"],1
+id-x14112.1:99..326 ["X14112.1%3A99..326"|"HHV1_X14112_clean_genes.gff"|"id-X14112.1%3A99..326"],1
+rl1 ["X14112.1%3A124832..125858"|"HHV1_X14112_clean_genes.gff"|"RL1"|"gene-RL1-2"],1 ["X14112.1%3A513..1539"|"HHV1_X14112_clean_genes.gff"|"RL1"|"gene-RL1"],2
+rl2 ["X14112.1%3A120690..124110"|"HHV1_X14112_clean_genes.gff"|"RL2"|"gene-RL2-2"],1 ["X14112.1%3A2115..5681"|"HHV1_X14112_clean_genes.gff"|"RL2"|"gene-RL2"],2
+rna-rl2 ["X14112.1%3A2115..5638"|"HHV1_X14112_clean_genes.gff"|"rna-RL2"],1
+rna-ul11 ["X14112.1%3A24800..25501"|"HHV1_X14112_clean_genes.gff"|"rna-UL11"],1
+rna-ul12 ["X14112.1%3A24800..27046"|"HHV1_X14112_clean_genes.gff"|"rna-UL12"],1
+rna-ul13 ["X14112.1%3A24800..28691"|"HHV1_X14112_clean_genes.gff"|"rna-UL13"],1
+rna-ul15 ["X14112.1%3A28804..34825"|"HHV1_X14112_clean_genes.gff"|"rna-UL15"],1
+rna-ul16 ["X14112.1%3A30173..31670"|"HHV1_X14112_clean_genes.gff"|"rna-UL16"],1
+rna-ul17 ["X14112.1%3A30173..33666"|"HHV1_X14112_clean_genes.gff"|"rna-UL17"],1
+rna-ul19 ["X14112.1%3A35028..40768"|"HHV1_X14112_clean_genes.gff"|"rna-UL19"],1
+rna-ul22 ["X14112.1%3A43824..46581"|"HHV1_X14112_clean_genes.gff"|"rna-UL22"],1
+rna-ul23 ["X14112.1%3A46621..47911"|"HHV1_X14112_clean_genes.gff"|"rna-UL23"],1
+rna-ul27 ["X14112.1%3A53058..56080"|"HHV1_X14112_clean_genes.gff"|"rna-UL27"],1
+rna-ul28 ["X14112.1%3A53058..58320"|"HHV1_X14112_clean_genes.gff"|"rna-UL28"],1
+rna-ul28-2 ["X14112.1%3A58409..62319"|"HHV1_X14112_clean_genes.gff"|"rna-UL28-2"],1
+rna-ul30 ["X14112.1%3A62606..66553"|"HHV1_X14112_clean_genes.gff"|"rna-UL30"],1
+rna-ul39 ["X14112.1%3A86217..90988"|"HHV1_X14112_clean_genes.gff"|"rna-UL39"],1
+rna-ul40 ["X14112.1%3A89773..90988"|"HHV1_X14112_clean_genes.gff"|"rna-UL40"],1
+rna-ul41 ["X14112.1%3A91116..92740"|"HHV1_X14112_clean_genes.gff"|"rna-UL41"],1
+rna-ul42 ["X14112.1%3A92920..94638"|"HHV1_X14112_clean_genes.gff"|"rna-UL42"],1
+rna-ul44 ["X14112.1%3A95168..98668"|"HHV1_X14112_clean_genes.gff"|"rna-UL44"],1
+rna-ul45 ["X14112.1%3A97953..98668"|"HHV1_X14112_clean_genes.gff"|"rna-UL45"],1
+rna-ul46 ["X14112.1%3A98726..100998"|"HHV1_X14112_clean_genes.gff"|"rna-UL46"],1
+rna-ul47 ["X14112.1%3A98726..105259"|"HHV1_X14112_clean_genes.gff"|"rna-UL47"],1
+rna-ul48 ["X14112.1%3A103537..105259"|"HHV1_X14112_clean_genes.gff"|"rna-UL48"],1
+rna-ul54 ["X14112.1%3A113596..115282"|"HHV1_X14112_clean_genes.gff"|"rna-UL54"],1
+rna-us1 ["X14112.1%3A132605..133960"|"HHV1_X14112_clean_genes.gff"|"rna-US1"],1
+rna-us10 ["X14112.1%3A144119..145166"|"HHV1_X14112_clean_genes.gff"|"rna-US10"],1
+rna-us11 ["X14112.1%3A144119..145464"|"HHV1_X14112_clean_genes.gff"|"rna-US11"],1
+rna-us12 ["X14112.1%3A144119..145584"|"HHV1_X14112_clean_genes.gff"|"rna-US12"],1
+rna-us2 ["X14112.1%3A134023..135304"|"HHV1_X14112_clean_genes.gff"|"rna-US2"],1
+rna-us3 ["X14112.1%3A134964..137531"|"HHV1_X14112_clean_genes.gff"|"rna-US3"],1
+rna-us3-2 ["X14112.1%3A135189..137531"|"HHV1_X14112_clean_genes.gff"|"rna-US3-2"],1
+rna-us4 ["X14112.1%3A136729..137531"|"HHV1_X14112_clean_genes.gff"|"rna-US4"],1
+rna-us5 ["X14112.1%3A137618..141048"|"HHV1_X14112_clean_genes.gff"|"rna-US5"],1
+rna-us5-2 ["X14112.1%3A137618..138452"|"HHV1_X14112_clean_genes.gff"|"rna-US5-2"],1
+rna-us6 ["X14112.1%3A138333..141048"|"HHV1_X14112_clean_genes.gff"|"rna-US6"],1
+rna-us7 ["X14112.1%3A139694..141048"|"HHV1_X14112_clean_genes.gff"|"rna-US7"],1
+rna-us8 ["X14112.1%3A141171..143693"|"HHV1_X14112_clean_genes.gff"|"rna-US8"],1
+rna-us9 ["X14112.1%3A143246..143693"|"HHV1_X14112_clean_genes.gff"|"rna-US9"],1
+rna-x14112.1:133941..146107 ["X14112.1%3A133941..146107"|"HHV1_X14112_clean_genes.gff"|"rna-X14112.1%3A133941..146107"],1
+rna-x14112.1:146805..151063 ["X14112.1%3A146805..151063"|"HHV1_X14112_clean_genes.gff"|"rna-X14112.1%3A146805..151063"],1
+rs1 ["X14112.1%3A127184..131128"|"HHV1_X14112_clean_genes.gff"|"RS1"|"gene-RS1"],1 ["X14112.1%3A147105..151049"|"HHV1_X14112_clean_genes.gff"|"RS1"|"gene-RS1-2"],2
+ul1 ["X14112.1%3A10943..10948"|"HHV1_X14112_clean_genes.gff"|"UL1"|"gene-UL1-2"],1 ["X14112.1%3A11715..11720"|"HHV1_X14112_clean_genes.gff"|"UL1"|"gene-UL1-3"],2 ["X14112.1%3A9337..10011"|"HHV1_X14112_clean_genes.gff"|"UL1"|"gene-UL1"],3
+ul10 ["X14112.1%3A23204..24648"|"HHV1_X14112_clean_genes.gff"|"UL10"|"gene-UL10"],1
+ul11 ["X14112.1%3A24800..24805"|"HHV1_X14112_clean_genes.gff"|"UL11"|"gene-UL11-2"],1 ["X14112.1%3A24800..25501"|"HHV1_X14112_clean_genes.gff"|"UL11"|"gene-UL11"],2
+ul12 ["X14112.1%3A24800..27046"|"HHV1_X14112_clean_genes.gff"|"UL12"|"gene-UL12"],1
+ul13 ["X14112.1%3A24800..28691"|"HHV1_X14112_clean_genes.gff"|"UL13"|"gene-UL13"],1
+ul14 ["X14112.1%3A28256..28915"|"HHV1_X14112_clean_genes.gff"|"UL14"|"gene-UL14"],1
+ul15 ["X14112.1%3A28804..34825"|"HHV1_X14112_clean_genes.gff"|"UL15"|"gene-UL15"],1
+ul16 ["X14112.1%3A30173..30178"|"HHV1_X14112_clean_genes.gff"|"UL16"|"gene-UL16-2"],1 ["X14112.1%3A30173..31670"|"HHV1_X14112_clean_genes.gff"|"UL16"|"gene-UL16"],2
+ul17 ["X14112.1%3A30173..33666"|"HHV1_X14112_clean_genes.gff"|"UL17"|"gene-UL17"],1
+ul18 ["X14112.1%3A35023..35032"|"HHV1_X14112_clean_genes.gff"|"UL18"|"gene-UL18"],1 ["X14112.1%3A35095..36051"|"HHV1_X14112_clean_genes.gff"|"UL18"|"gene-UL18-2"],2
+ul19 ["X14112.1%3A35028..36405"|"HHV1_X14112_clean_genes.gff"|"UL19"|"gene-UL19-2"],1 ["X14112.1%3A35028..40768"|"HHV1_X14112_clean_genes.gff"|"UL19"|"gene-UL19"],2
+ul2 ["X14112.1%3A9884..10888"|"HHV1_X14112_clean_genes.gff"|"UL2"|"gene-UL2"],1
+ul20 ["X14112.1%3A40820..41488"|"HHV1_X14112_clean_genes.gff"|"UL20"|"gene-UL20"],1
+ul21 ["X14112.1%3A42074..43695"|"HHV1_X14112_clean_genes.gff"|"UL21"|"gene-UL21"],1
+ul22 ["X14112.1%3A43824..46581"|"HHV1_X14112_clean_genes.gff"|"UL22"|"gene-UL22"],1
+ul23 ["X14112.1%3A46608..47911"|"HHV1_X14112_clean_genes.gff"|"UL23"|"gene-UL23"],1
+ul24 ["X14112.1%3A47737..48744"|"HHV1_X14112_clean_genes.gff"|"UL24"|"gene-UL24"],1 ["X14112.1%3A52766..52771"|"HHV1_X14112_clean_genes.gff"|"UL24"|"gene-UL24-2"],2
+ul25 ["X14112.1%3A48813..50555"|"HHV1_X14112_clean_genes.gff"|"UL25"|"gene-UL25"],1
+ul26 ["X14112.1%3A50809..52716"|"HHV1_X14112_clean_genes.gff"|"UL26"|"gene-UL26"],1
+ul26.5 ["X14112.1%3A51727..52716"|"HHV1_X14112_clean_genes.gff"|"UL26.5"|"gene-UL26.5"],1
+ul27 ["X14112.1%3A53058..53063"|"HHV1_X14112_clean_genes.gff"|"UL27"|"gene-UL27-2"],1 ["X14112.1%3A53058..56080"|"HHV1_X14112_clean_genes.gff"|"UL27"|"gene-UL27"],2
+ul28 ["X14112.1%3A53058..58320"|"HHV1_X14112_clean_genes.gff"|"UL28"|"gene-UL28"],1 ["X14112.1%3A58409..62319"|"HHV1_X14112_clean_genes.gff"|"UL28"|"gene-UL28-2"],2
+ul29 ["X14112.1%3A58409..58414"|"HHV1_X14112_clean_genes.gff"|"UL29"|"gene-UL29"],1 ["X14112.1%3A58463..62053"|"HHV1_X14112_clean_genes.gff"|"UL29"|"gene-UL29"],2
+ul3 ["X14112.1%3A10957..11664"|"HHV1_X14112_clean_genes.gff"|"UL3"|"gene-UL3"],1
+ul30 ["X14112.1%3A62606..66553"|"HHV1_X14112_clean_genes.gff"|"UL30"|"gene-UL30"],1
+ul31 ["X14112.1%3A66377..66382"|"HHV1_X14112_clean_genes.gff"|"UL31"|"gene-UL31"],1 ["X14112.1%3A66459..67379"|"HHV1_X14112_clean_genes.gff"|"UL31"|"gene-UL31-2"],2
+ul32 ["X14112.1%3A67372..69162"|"HHV1_X14112_clean_genes.gff"|"UL32"|"gene-UL32"],1
+ul33 ["X14112.1%3A69161..69553"|"HHV1_X14112_clean_genes.gff"|"UL33"|"gene-UL33"],1 ["X14112.1%3A70938..70943"|"HHV1_X14112_clean_genes.gff"|"UL33"|"gene-UL33-2"],2
+ul34 ["X14112.1%3A69633..70460"|"HHV1_X14112_clean_genes.gff"|"UL34"|"gene-UL34"],1
+ul35 ["X14112.1%3A70566..70904"|"HHV1_X14112_clean_genes.gff"|"UL35"|"gene-UL35"],1
+ul36 ["X14112.1%3A70983..80543"|"HHV1_X14112_clean_genes.gff"|"UL36"|"gene-UL36"],1
+ul37 ["X14112.1%3A80712..84084"|"HHV1_X14112_clean_genes.gff"|"UL37"|"gene-UL37"],1
+ul38 ["X14112.1%3A84531..86021"|"HHV1_X14112_clean_genes.gff"|"UL38"|"gene-UL38"],1 ["X14112.1%3A90983..90988"|"HHV1_X14112_clean_genes.gff"|"UL38"|"gene-UL38-2"],2
+ul39 ["X14112.1%3A86217..90988"|"HHV1_X14112_clean_genes.gff"|"UL39"|"gene-UL39"],1
+ul4 ["X14112.1%3A11753..11758"|"HHV1_X14112_clean_genes.gff"|"UL4"|"gene-UL4"],1 ["X14112.1%3A11823..12422"|"HHV1_X14112_clean_genes.gff"|"UL4"|"gene-UL4-2"],2
+ul40 ["X14112.1%3A89773..90988"|"HHV1_X14112_clean_genes.gff"|"UL40"|"gene-UL40"],1
+ul41 ["X14112.1%3A91116..92740"|"HHV1_X14112_clean_genes.gff"|"UL41"|"gene-UL41"],1
+ul42 ["X14112.1%3A92920..94638"|"HHV1_X14112_clean_genes.gff"|"UL42"|"gene-UL42"],1
+ul43 ["X14112.1%3A94748..96052"|"HHV1_X14112_clean_genes.gff"|"UL43"|"gene-UL43"],1 ["X14112.1%3A96063..96068"|"HHV1_X14112_clean_genes.gff"|"UL43"|"gene-UL43"],2
+ul44 ["X14112.1%3A95168..98668"|"HHV1_X14112_clean_genes.gff"|"UL44"|"gene-UL44"],1 ["X14112.1%3A98663..98668"|"HHV1_X14112_clean_genes.gff"|"UL44"|"gene-UL44-2"],2
+ul45 ["X14112.1%3A97953..98668"|"HHV1_X14112_clean_genes.gff"|"UL45"|"gene-UL45"],1
+ul46 ["X14112.1%3A98726..100998"|"HHV1_X14112_clean_genes.gff"|"UL46"|"gene-UL46"],1 ["X14112.1%3A98726..98731"|"HHV1_X14112_clean_genes.gff"|"UL46"|"gene-UL46-2"],2
+ul47 ["X14112.1%3A98726..105259"|"HHV1_X14112_clean_genes.gff"|"UL47"|"gene-UL47"],1
+ul48 ["X14112.1%3A103537..105259"|"HHV1_X14112_clean_genes.gff"|"UL48"|"gene-UL48"],1
+ul49 ["X14112.1%3A105462..105467"|"HHV1_X14112_clean_genes.gff"|"UL49"|"gene-UL49"],1 ["X14112.1%3A105486..106391"|"HHV1_X14112_clean_genes.gff"|"UL49"|"gene-UL49-2"],2
+ul49a ["X14112.1%3A106718..106993"|"HHV1_X14112_clean_genes.gff"|"UL49A"|"gene-UL49A"],1
+ul5 ["X14112.1%3A12483..15131"|"HHV1_X14112_clean_genes.gff"|"UL5"|"gene-UL5"],1
+ul50 ["X14112.1%3A107010..108157"|"HHV1_X14112_clean_genes.gff"|"UL50"|"gene-UL50"],1
+ul51 ["X14112.1%3A108276..109011"|"HHV1_X14112_clean_genes.gff"|"UL51"|"gene-UL51"],1
+ul52 ["X14112.1%3A109048..112224"|"HHV1_X14112_clean_genes.gff"|"UL52"|"gene-UL52"],1 ["X14112.1%3A113443..113448"|"HHV1_X14112_clean_genes.gff"|"UL52"|"gene-UL52-2"],2
+ul53 ["X14112.1%3A112179..113195"|"HHV1_X14112_clean_genes.gff"|"UL53"|"gene-UL53"],1
+ul54 ["X14112.1%3A113596..115282"|"HHV1_X14112_clean_genes.gff"|"UL54"|"gene-UL54"],1
+ul55 ["X14112.1%3A115496..116103"|"HHV1_X14112_clean_genes.gff"|"UL55"|"gene-UL55"],1
+ul56 ["X14112.1%3A116196..116925"|"HHV1_X14112_clean_genes.gff"|"UL56"|"gene-UL56"],1
+ul6 ["X14112.1%3A15130..17160"|"HHV1_X14112_clean_genes.gff"|"UL6"|"gene-UL6"],1 ["X14112.1%3A18035..18040"|"HHV1_X14112_clean_genes.gff"|"UL6"|"gene-UL6-2"],2
+ul7 ["X14112.1%3A17135..18025"|"HHV1_X14112_clean_genes.gff"|"UL7"|"gene-UL7"],1
+ul8 ["X14112.1%3A18210..18215"|"HHV1_X14112_clean_genes.gff"|"UL8"|"gene-UL8"],1 ["X14112.1%3A18224..20476"|"HHV1_X14112_clean_genes.gff"|"UL8"|"gene-UL8-2"],2
+ul9 ["X14112.1%3A20704..23259"|"HHV1_X14112_clean_genes.gff"|"UL9"|"gene-UL9"],1
+us1 ["X14112.1%3A132605..133960"|"HHV1_X14112_clean_genes.gff"|"US1"|"gene-US1"],1
+us10 ["X14112.1%3A144119..145166"|"HHV1_X14112_clean_genes.gff"|"US10"|"gene-US10"],1 ["X14112.1%3A144135..144140"|"HHV1_X14112_clean_genes.gff"|"US10"|"gene-US10-2"],2 ["X14112.1%3A145188..145194"|"HHV1_X14112_clean_genes.gff"|"US10"|"gene-US10-3"],3
+us11 ["X14112.1%3A144119..145464"|"HHV1_X14112_clean_genes.gff"|"US11"|"gene-US11"],1 ["X14112.1%3A145484..145495"|"HHV1_X14112_clean_genes.gff"|"US11"|"gene-US11-2"],2
+us12 ["X14112.1%3A144119..145584"|"HHV1_X14112_clean_genes.gff"|"US12"|"gene-US12"],1
+us2 ["X14112.1%3A134023..135304"|"HHV1_X14112_clean_genes.gff"|"US2"|"gene-US2"],1
+us3 ["X14112.1%3A134934..134940"|"HHV1_X14112_clean_genes.gff"|"US3"|"gene-US3"],1 ["X14112.1%3A134964..137531"|"HHV1_X14112_clean_genes.gff"|"US3"|"gene-US3-2"],2 ["X14112.1%3A137508..137513"|"HHV1_X14112_clean_genes.gff"|"US3"|"gene-US3-3"],3
+us4 ["X14112.1%3A136702..136709"|"HHV1_X14112_clean_genes.gff"|"US4"|"gene-US4"],1 ["X14112.1%3A136729..137531"|"HHV1_X14112_clean_genes.gff"|"US4"|"gene-US4-2"],2
+us5 ["X14112.1%3A137595..137601"|"HHV1_X14112_clean_genes.gff"|"US5"|"gene-US5"],1 ["X14112.1%3A137618..141048"|"HHV1_X14112_clean_genes.gff"|"US5"|"gene-US5-2"],2 ["X14112.1%3A141013..141018"|"HHV1_X14112_clean_genes.gff"|"US5"|"gene-US5-3"],3
+us6 ["X14112.1%3A138309..138316"|"HHV1_X14112_clean_genes.gff"|"US6"|"gene-US6"],1 ["X14112.1%3A138333..141048"|"HHV1_X14112_clean_genes.gff"|"US6"|"gene-US6-2"],2
+us7 ["X14112.1%3A139666..139673"|"HHV1_X14112_clean_genes.gff"|"US7"|"gene-US7"],1 ["X14112.1%3A139694..141048"|"HHV1_X14112_clean_genes.gff"|"US7"|"gene-US7-2"],2
+us8 ["X14112.1%3A141139..141145"|"HHV1_X14112_clean_genes.gff"|"US8"|"gene-US8"],1 ["X14112.1%3A141171..143693"|"HHV1_X14112_clean_genes.gff"|"US8"|"gene-US8-2"],2 ["X14112.1%3A143668..143673"|"HHV1_X14112_clean_genes.gff"|"US8"|"gene-US8-3"],3
+us8a ["X14112.1%3A142744..143223"|"HHV1_X14112_clean_genes.gff"|"US8A"|"gene-US8A"],1
+us9 ["X14112.1%3A143219..143224"|"HHV1_X14112_clean_genes.gff"|"US9"|"gene-US9"],1 ["X14112.1%3A143246..143693"|"HHV1_X14112_clean_genes.gff"|"US9"|"gene-US9-2"],2
+x14112.1:1..152261 ["X14112.1%3A1..152261"|"HHV1_X14112_clean_genes.gff"|"X14112.1%3A1..152261"],1
